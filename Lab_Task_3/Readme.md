@@ -8,7 +8,7 @@ This project implements a **class scheduling system** using a genetic algorithm 
 - **Pygame Visualization**: Provides a real-time, interactive visualization of the scheduling process.
 - **Dynamic Scheduling**: Assigns classes based on individual student preferences, availability, and class priorities.
 ## 🖼️ Preview
-![Task Scheduling Visualization]()
+![Task Scheduling Visualization](preview.gif)
 ## 🚀 Features
 
 ### 1. Genetic Algorithm for Optimization

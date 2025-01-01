@@ -4,14 +4,10 @@ This project implements a grid-based simulation using two AI pathfinding algorit
 
 ## Features
 
-- **A*** Algorithm:
-  - Uses a heuristic (Manhattan distance) to find the optimal path to the nearest task.
-- **UCS (Uniform Cost Search):**
-  - Finds the shortest path to the nearest task by considering the cost of each move.
-- **Dynamic Task Completion:**
-  - Tasks are dynamically generated on the grid, and the agent completes them by navigating around barriers.
-- **Pygame Visualization:**
-  - Visual feedback via Pygame that shows the grid, tasks, barriers, and the agent's movement (up, down, left, right).
+- **A*** Algorithm: Uses a heuristic (Manhattan distance) to find the optimal path to the nearest task.
+- **UCS (Uniform Cost Search):** Finds the shortest path to the nearest task by considering the cost of each move.
+- **Dynamic Task Completion:** Tasks are dynamically generated on the grid, and the agent completes them by navigating around barriers.
+- **Pygame Visualization:** Visual feedback via Pygame that shows the grid, tasks, barriers, and the agent's movement (up, down, left, right).
 
 ## Requirements
 
